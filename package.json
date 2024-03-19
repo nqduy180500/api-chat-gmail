@@ -1,6 +1,6 @@
 {
   "name": "@nqduy180500/api-chat-gmail",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "connect to api tiwtter",
   "main": "lib/index.js",
   "scripts": {
