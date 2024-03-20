@@ -1,7 +1,7 @@
 {
   "name": "@nqduy180500/api-chat-gmail",
   "version": "1.0.2",
-  "description": "api chat gmail",
+  "description": "api chat gmail conversation",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
